@@ -1,0 +1,12 @@
+{
+    "domain": "compounded_entities",
+    "name": "Compunded Entities",
+    "documentation": "https://github.com/xannor/compounded_entities",
+    "issue_tracker": "https://github.com/xannor/compounded_entities/issues",
+    "version": "1.0.0",
+    "iot_class": "calculated",
+    "integration_type": "helper",
+    "dependencies": ["datetime", "number"],
+    "codeowners": ["@xannor"],
+    "config_flow": true
+  }
